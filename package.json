@@ -1,7 +1,9 @@
 {
   "name": "our-react",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "start": "parcel index.html"
+  },
   "dependencies": {},
   "devDependencies": {
     "parcel": "^2.8.2",
